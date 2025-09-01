@@ -10,17 +10,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Alex Prieto Garbazza Ferraz
+- Matricula: 897619
+- Proposta de projeto escolhida: Pokemon
+- Breve descrição sobre seu projeto: Sobre os pokemons, suas caracteristicas e estatisticas
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img src=![wireframe text](image-1.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img src=![homepage text](image.png)>
