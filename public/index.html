@@ -1,12 +1,104 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Pokewiki</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <header>
+        <img src="Pokemon_logo.png" id="logo" alt="Logo Pokémon">
+        <nav>
+            Usuário: <input type="text" name="usuario"><br>
+            Senha: <input type="password" name="senha"><br>
+            <input type="submit" value="Ok">
+        </nav>
+    </header>
+
+    <!-- Contêiner flex para aside + cards -->
+    <section class="conteudo">
+
+        <div class="container-pokemon">
+            <div class="pokemon1">
+                <img src="squirtle.png" id="squirtle" alt="Squirtle">
+                <h1>Squirtle</h1>
+                <p>Pokedex #7</p>
+                <p>Tipo: Água</p>
+                <p>Stats:</p>
+                <p>HP: 44</p>
+                <p>ATK: 48</p>
+                <p>DEF: 65</p>
+                <p>SPA: 50</p>
+                <p>SPD: 64</p>
+                <p>SPE: 43</p>
+            </div>
+
+            <div class="pokemon2">
+                <img src="bulbasaur.png" id="bulbasaur" alt="Bulbasaur">
+                <h1>Bulbasaur</h1>
+                <p>Pokedex #1</p>
+                <p>Tipo: Grama</p>
+                <p>Stats:</p>
+                <p>HP: 45</p>
+                <p>ATK: 49</p>
+                <p>DEF: 49</p>
+                <p>SPA: 65</p>
+                <p>SPD: 65</p>
+                <p>SPE: 45</p>
+            </div>
+
+            <div class="pokemon3">
+                <img src="charmander.png" id="charmander" alt="Charmander">
+                <h1>Charmander</h1>
+                <p>Pokedex #4</p>
+                <p>Tipo: Fogo</p>
+                <p>Stats:</p>
+                <p>HP: 39</p>
+                <p>ATK: 52</p>
+                <p>DEF: 43</p>
+                <p>SPA: 60</p>
+                <p>SPD: 50</p>
+                <p>SPE: 65</p>
+            </div>
+        </div>
+    </section>
+
+    <article>
+        <aside>
+            <p><strong>Pokedex</strong></p>
+            <p>#1 Bulbasaur</p>
+            <p>#2 Ivysaur</p>
+            <p>#3 Venusaur</p>
+            <p>#4 Charmander</p>
+            <p>#5 Charmeleon</p>
+            <p>#6 Charizard</p>
+            <p>#7 Squirtle</p>
+            <p>#8 Wartortle</p>
+            <p>#9 Blastoise</p>
+            <p>#10 Caterpie</p>
+            <p>#11 Metapod</p>
+            <p>#12 Butterfree</p>
+            <p>#13 Weedle</p>
+            <p>#14 Kakuna</p>
+            <p>#15 Beedrill</p>
+            <p>#16 Pidgey</p>
+            <p>#17 Pidgeotto</p>
+            <p>#18 Pidgeot</p>
+            <p>#19 Rattata</p>
+            <p>#20 Raticate</p>
+            <p>#21 Spearow</p>
+            <p>#22 Fearow</p>
+            <p>#23 Ekans</p>
+            <p>...</p>
+        </aside>
+    </article>
+
+    <footer>
+        <div>Aluno: Alex Prieto</div> 
+        <div>Puc Minas - São Gabriel</div>
+        <div>Nintendo</div>
+        <div>Pokémon Company</div>
+    </footer>
 </body>
 </html>
