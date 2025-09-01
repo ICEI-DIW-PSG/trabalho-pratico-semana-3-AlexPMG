@@ -13,7 +13,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 - Nome: Alex Prieto Garbazza Ferraz
 - Matricula: 897619
 - Proposta de projeto escolhida: Pokemon
-- Breve descrição sobre seu projeto: Sobre os pokemons suas caracteristicas e forças
+- Breve descrição sobre seu projeto: Sobre os pokemons suas caracteristicas e estatisticas
 
 
 ## Print do(s) wireframe(s) criado
